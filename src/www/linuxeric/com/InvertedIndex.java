@@ -1,4 +1,4 @@
-package www.linuxeric.com;
+
 
 import java.io.IOException;
 import java.util.StringTokenizer;
