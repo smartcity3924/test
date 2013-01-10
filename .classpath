@@ -2,7 +2,7 @@
 
 	
 	
-	<classpathentry kind="lib" path="/usr/hadoop/lib/commons-codec-1.4.jar"/>
+
 	<classpathentry kind="lib" path="/usr/hadoop/lib/commons-lang-2.4.jar"/>
 	<classpathentry kind="lib" path="/usr/hadoop/lib/jersey-server-1.8.jar"/>
 	<classpathentry kind="lib" path="/usr/hadoop/lib/commons-cli-1.2.jar"/>
