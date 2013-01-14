@@ -19,3 +19,5 @@ import org.apache.hadoop.util.GenericOptionsParser;
 //eric has done something here
 
 //Bruno大灰神到此一游，仅以留念！
+
+//in eclipse ee galileo,eric has done something here again
